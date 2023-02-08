@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on various solo projects along with some for college<br>🌱 I’m currently learning C# and Unity on a level three college course<br><br>
+🔭 I’m currently working on various solo projects along with some for college<br>🌱 I’m currently learning C# and Unity on a level three college course<br>🎮 My current project is Life Of Bean, a college project which will later be continued as a personal one<br><br>
 
 
 ## 🌐 Socials:
